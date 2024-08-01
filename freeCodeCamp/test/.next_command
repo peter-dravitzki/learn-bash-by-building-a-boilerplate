@@ -159,3 +159,6 @@ __vsc_prompt_cmd_original
 mv header.png ./clienr/assets/images
 mv header.png ./client/assets/images
 find -name header.png
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+find -name footer.jpeg
