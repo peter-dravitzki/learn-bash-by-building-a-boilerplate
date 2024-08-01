@@ -164,3 +164,5 @@ __vsc_prompt_cmd_original
 find -name footer.jpeg
 __vsc_prompt_cmd_original
 mv ./images/footer.jpeg client/assets/images
+__vsc_prompt_cmd_original
+find
