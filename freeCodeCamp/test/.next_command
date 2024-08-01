@@ -66,3 +66,4 @@ cd has
 cd ..
 cd ..
 cd ../..
+ls --color=auto
