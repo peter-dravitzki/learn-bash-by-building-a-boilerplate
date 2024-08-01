@@ -167,3 +167,5 @@ mv ./images/footer.jpeg client/assets/images
 __vsc_prompt_cmd_original
 find
 rmdir images
+__vsc_prompt_cmd_original
+rm ./images/background.jpg
