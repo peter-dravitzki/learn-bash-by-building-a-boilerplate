@@ -171,3 +171,4 @@ __vsc_prompt_cmd_original
 rm ./images/background.jpg
 __vsc_prompt_cmd_original
 rmdir images
+ls --color=auto
