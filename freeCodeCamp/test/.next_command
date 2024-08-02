@@ -173,3 +173,4 @@ __vsc_prompt_cmd_original
 rmdir images
 ls --color=auto
 mkdir client/assets/icons
+mv CodeAlly.svg client/assets/icons
